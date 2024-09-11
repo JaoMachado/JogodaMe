@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chave1">JOGO DA MEMÓRIA</string>
+    <string name="chave2">ACERTOS:</string>
+    <string name="chave3">ERROS:</string>
+    <string name="chave4">SUSTENTABILIDADE</string>
+    <string name="chave5">SUSTENTABILIDADE</string>
+    <string name="chave6">INICIAR</string>
+    <string name="chave7">João Pedro Machado, Lucas Fileti, </string>
+    <string name="chave8"> Gabriel Cavalcante, Thiago Menezes, Leonardo Solovijovas</string>
+    <string name="chave9">IR PARA O JOGO</string>
+    <string name="chave10">VOLTAR</string>
+</resources>
